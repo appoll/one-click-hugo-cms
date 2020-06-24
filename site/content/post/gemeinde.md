@@ -1,19 +1,13 @@
 ---
 title: Gemeinde
 date: 2020-06-24T10:32:08.836Z
-description: >-
-  Am 1. Januar 2000 schlossen sich in Meiendorf die Thomas- und die
+description: "Am 1. Januar 2000 schlossen sich in Meiendorf die Thomas- und die
   Rogate-Kirchengemeinde zur Kirchengemeinde Meiendorf zusammen. Am gleichen Tag
   schlossen sich in Oldenfelde die Dietrich-Bonhoeffer- und die
   Matthias-Claudius-Kirchengemeinde zur Kirchengemeinde Rahlstedt-Oldenfelde.
   Weil die neuen Gemeinden auf lange Sicht zu klein waren, schlossen sie sich am
   1.März 2009 zur Kirchengemeinde Meiensdorf-Oldenfelde zusammen; immerhin die
-  zweitgrößte Kirchengemeinde in Hamburg! 
-
-
-  Zur Gemeinde gehören Menschen jeden Lebensalters in vielen unterschiedlichen sozialen Situationen. Als Gemeinde begleiten wir Menschen in jeder Lebenslage, versuchen Freude zu schenken, zu trösten oder zu helfen, sei es in der Nähe oder auch weit entfernt.
-
-   Viele Haupt- und Ehrenamtliche sind in unserer Gemeinde in verschiedenen Aufgabenbereichen tätig und arbeiten vertrauensvoll zusammen: im Kirchengemeinderat, in der Arbeit mit Kindern und Familien, in Ausschüssen, in der Arbeit mit älteren Erwachsenen, in der Öffentlichkeitsarbeit, in der Kirchenmusik...
+  zweitgrößte Kirchengemeinde in Hamburg! "
 ---
 <!--StartFragment-->
 
